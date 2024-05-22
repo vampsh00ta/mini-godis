@@ -1,0 +1,10 @@
+app:
+  name: 'mini-godis'
+  version: '1.0.0'
+
+http:
+  port: '8000'
+
+logger:
+  log_level: 'debug'
+  rollbar_env: 'mini-godis'
